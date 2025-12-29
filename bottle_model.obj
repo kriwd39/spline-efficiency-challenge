@@ -1,0 +1,56 @@
+# OBJ file for Coca-Cola bottle spline reconstruction
+# Generated from revolved NURBS profiles
+# Vertex count: 24 (8 sides × 3 stacks)
+# Face count: 16 quads
+
+# Vertices (stack 0, y=0, radius=1.0)
+v 1.000 0.000 0.000
+v 0.707 0.000 0.707
+v 0.000 0.000 1.000
+v -0.707 0.000 0.707
+v -1.000 0.000 0.000
+v -0.707 0.000 -0.707
+v 0.000 0.000 -1.000
+v 0.707 0.000 -0.707
+
+# Vertices (stack 1, y=5, radius=0.7)
+v 0.700 5.000 0.000
+v 0.495 5.000 0.495
+v 0.000 5.000 0.700
+v -0.495 5.000 0.495
+v -0.700 5.000 0.000
+v -0.495 5.000 -0.495
+v 0.000 5.000 -0.700
+v 0.495 5.000 -0.495
+
+# Vertices (stack 2, y=10, radius=0.3)
+v 0.300 10.000 0.000
+v 0.212 10.000 0.212
+v 0.000 10.000 0.300
+v -0.212 10.000 0.212
+v -0.300 10.000 0.000
+v -0.212 10.000 -0.212
+v 0.000 10.000 -0.300
+v 0.212 10.000 -0.212
+
+# Faces (quads) between stack 0 and stack 1
+f 1 2 10 9
+f 2 3 11 10
+f 3 4 12 11
+f 4 5 13 12
+f 5 6 14 13
+f 6 7 15 14
+f 7 8 16 15
+f 8 1 9 16
+
+# Faces between stack 1 and stack 2
+f 9 10 18 17
+f 10 11 19 18
+f 11 12 20 19
+f 12 13 21 20
+f 13 14 22 21
+f 14 15 23 22
+f 15 16 24 23
+f 16 9 17 24
+
+# End of file
