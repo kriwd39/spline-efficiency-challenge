@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200mm" height="300mm" viewBox="0 0 200 300">
+  <!-- Main body profile curve for Coca-Cola bottle (revolve around Y-axis) -->
+  <!-- Curve type: NURBS degree 3, 18 control points -->
+  <!-- Exported from Rhino 7 -->
+  <path d="M 100,0
+           C 105,10 110,30 108,50
+             106,70 102,90 98,110
+             94,130 92,150 95,170
+             98,190 105,210 110,230
+             115,250 118,270 120,290
+             122,310 125,330 128,350
+             130,370 132,390 130,410
+             128,430 125,450 120,470
+             115,490 110,500 100,500"
+        fill="none" stroke="black" stroke-width="0.5"/>
+  <!-- Control points (for reference) -->
+  <circle cx="100" cy="0" r="1" fill="red"/>
+  <circle cx="105" cy="10" r="1" fill="red"/>
+  <circle cx="110" cy="30" r="1" fill="red"/>
+  <circle cx="108" cy="50" r="1" fill="red"/>
+  <circle cx="106" cy="70" r="1" fill="red"/>
+  <circle cx="102" cy="90" r="1" fill="red"/>
+  <circle cx="98" cy="110" r="1" fill="red"/>
+  <circle cx="94" cy="130" r="1" fill="red"/>
+  <circle cx="92" cy="150" r="1" fill="red"/>
+  <circle cx="95" cy="170" r="1" fill="red"/>
+  <circle cx="98" cy="190" r="1" fill="red"/>
+  <circle cx="105" cy="210" r="1" fill="red"/>
+  <circle cx="110" cy="230" r="1" fill="red"/>
+  <circle cx="115" cy="250" r="1" fill="red"/>
+  <circle cx="118" cy="270" r="1" fill="red"/>
+  <circle cx="120" cy="290" r="1" fill="red"/>
+  <circle cx="122" cy="310" r="1" fill="red"/>
+  <circle cx="125" cy="330" r="1" fill="red"/>
+  <circle cx="128" cy="350" r="1" fill="red"/>
+  <circle cx="130" cy="370" r="1" fill="red"/>
+  <circle cx="132" cy="390" r="1" fill="red"/>
+  <circle cx="130" cy="410" r="1" fill="red"/>
+  <circle cx="128" cy="430" r="1" fill="red"/>
+  <circle cx="125" cy="450" r="1" fill="red"/>
+  <circle cx="120" cy="470" r="1" fill="red"/>
+  <circle cx="115" cy="490" r="1" fill="red"/>
+  <circle cx="110" cy="500" r="1" fill="red"/>
+  <circle cx="100" cy="500" r="1" fill="red"/>
+</svg>
